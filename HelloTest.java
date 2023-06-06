@@ -4,7 +4,7 @@ public class HelloTest {
 
 	public static void main(String[] args) {
 		//
-		System.out.println("FUck");
+		System.out.println("法克油");
 
 	}
 
